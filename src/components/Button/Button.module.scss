@@ -1,0 +1,8 @@
+@use '../../scss/helpers' as *;
+
+.root {
+	font-family: 'Inter', sans;
+
+	background-color: lightcoral;
+	padding: rem(20);
+}

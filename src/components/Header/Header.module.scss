@@ -1,0 +1,275 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.root {
+	@include mobile {
+		position: relative;
+		&::before {
+			content: '';
+			background-color: #fff;
+			position: absolute;
+			inset: 0;
+			z-index: 6;
+		}
+	}
+}
+.inner {
+	padding: rem(16);
+
+	background-color: #fff;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	column-gap: rem(10);
+
+	border-bottom: rem(1) solid #000;
+	border-top-left-radius: rem(8);
+	border-top-right-radius: rem(8);
+	@include mobile {
+		padding: rem(6);
+	}
+}
+.logo {
+	position: relative;
+	z-index: 10;
+	flex-basis: rem(120);
+
+	flex-shrink: 1;
+	@include mobile {
+		flex-basis: rem(80);
+		left: rem(-10);
+	}
+}
+.list {
+	flex-wrap: wrap;
+	@include mobile-mf {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		gap: rem(20);
+
+		position: relative;
+		z-index: 10;
+	}
+}
+
+.listItem {
+	position: relative;
+
+	@include hover {
+		.dropdownButton {
+			&::after {
+				rotate: 135deg;
+			}
+			&::before {
+				rotate: -135deg;
+			}
+		}
+
+		.subList {
+			pointer-events: all;
+			opacity: 1;
+			visibility: visible;
+			translate: 0 0;
+		}
+	}
+	@include mobile-mf {
+		padding-block: rem(10);
+	}
+	@include mobile {
+		&:not(:last-child) {
+			margin-bottom: rem(20);
+		}
+	}
+}
+
+.subList {
+	@include mobile-mf {
+		position: absolute;
+		top: 100%;
+		left: 0;
+
+		pointer-events: none;
+
+		background-color: #fff;
+
+		border-radius: rem(8);
+
+		box-shadow: 0 rem(5) rem(15) 0 rgba(0, 0, 0, 0.09);
+
+		opacity: 0;
+		visibility: hidden;
+		translate: 0 rem(10);
+
+		transition: 0.5s;
+	}
+}
+
+.dropdownButton,
+.button {
+	white-space: nowrap;
+	@include mobile-mf {
+		background-color: #fe5f1e;
+		border-radius: rem(30);
+		color: #fff;
+		font-weight: 500;
+
+		padding: rem(15) rem(22);
+
+		@include hover {
+			opacity: 0.7;
+		}
+	}
+}
+
+.button {
+	@include mobile {
+		background-color: #fe5f1e;
+		border-radius: rem(30);
+		color: #fff;
+
+		width: 100%;
+
+		justify-content: center;
+
+		font-size: rem(20);
+		font-weight: 700;
+
+		padding: rem(15) rem(22);
+	}
+}
+
+.dropdownButton {
+	@include mobile-mf {
+		padding: rem(15) rem(40) rem(15) rem(22);
+
+		position: relative;
+
+		&::after,
+		&::before {
+			content: '';
+			width: rem(2);
+			height: rem(12);
+
+			background-color: #fff;
+
+			position: absolute;
+			top: 50%;
+
+			translate: 0 -50%;
+			z-index: 1;
+
+			transition-duration: 0.2s;
+		}
+		&::after {
+			rotate: 45deg;
+			right: rem(17);
+		}
+		&::before {
+			rotate: -45deg;
+			right: rem(24);
+		}
+
+		@include hover {
+		}
+	}
+	@include mobile {
+		font-size: rem(20);
+		font-weight: 700;
+	}
+}
+
+.subListLink,
+.link {
+	white-space: nowrap;
+	width: 100%;
+
+	color: #000;
+
+	padding: rem(8) rem(12);
+
+	@include hover {
+		color: #fe5f1e;
+		background-color: rgba(254, 95, 30, 0.05);
+	}
+
+	@include mobile {
+		font-size: rem(18);
+		font-weight: 500;
+	}
+}
+
+.nav {
+	@include mobile {
+		position: fixed;
+		inset: 0;
+		z-index: 4;
+
+		overflow-y: auto;
+
+		padding: rem(100) rem(20) rem(20);
+
+		display: flex;
+		align-items: flex-start;
+
+		background-color: #fff;
+
+		translate: 100%;
+
+		transition-duration: 0.2s;
+
+		&.isActive {
+			translate: 0%;
+		}
+	}
+}
+
+.burgerButton {
+	position: relative;
+	z-index: 10;
+	width: rem(44);
+	height: rem(30);
+
+	flex-shrink: 0;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+	.line {
+		width: 100%;
+		background-color: #fe5f1e;
+		height: rem(3);
+
+		position: relative;
+		z-index: 10;
+
+		border-radius: rem(2);
+
+		transition-duration: 0.2s;
+	}
+
+	&.isActive {
+		.line:first-child {
+			top: rem(8);
+			rotate: 45deg;
+		}
+		.line:nth-child(2) {
+			bottom: rem(6);
+			left: rem(-1);
+			rotate: -45deg;
+		}
+		.line:last-child {
+			scale: 0;
+		}
+	}
+	@include mobile-mf {
+		display: none;
+	}
+}
+
+.languages {
+	background-color: #000;
+}

@@ -1,0 +1,31 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.inner {
+	padding-block: rem(20);
+	border-bottom-right-radius: rem(8);
+	border-bottom-left-radius: rem(8);
+
+	display: grid;
+	row-gap: rem(20);
+}
+
+.title {
+	padding-left: rem(20);
+	color: #333;
+}
+.deputy {
+	.img {
+		max-width: rem(500);
+		margin-inline: auto;
+
+		margin-bottom: rem(20);
+	}
+	.name {
+		text-align: center;
+		font-weight: 500;
+		font-size: rem(24);
+		font-weight: 700;
+		color: #fe5f1e;
+	}
+}
