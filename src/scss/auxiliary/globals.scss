@@ -14,6 +14,7 @@ body {
 }
 
 .wrapper {
+	height: 100%;
 	width: 100%;
 	padding: rem(20);
 
@@ -40,30 +41,32 @@ section img {
 }
 
 .circle {
-	position: relative;
+	@include mobile-mf {
+		position: relative;
 
-	&::before,
-	&::after {
-		content: '';
-		border-radius: 50%;
+		&::before,
+		&::after {
+			content: '';
+			border-radius: 50%;
 
-		position: absolute;
-		left: 0;
-		top: 50%;
-		translate: 0 -50%;
-	}
-	&::before {
-		width: rem(10);
-		height: rem(10);
+			position: absolute;
+			left: 0;
+			top: 50%;
+			translate: 0 -50%;
+		}
+		&::before {
+			width: rem(10);
+			height: rem(10);
 
-		background-color: #00578a;
-	}
-	&::after {
-		width: rem(4);
-		height: rem(4);
+			background-color: #00578a;
+		}
+		&::after {
+			width: rem(4);
+			height: rem(4);
 
-		background-color: #fff;
-		left: rem(3);
+			background-color: #fff;
+			left: rem(3);
+		}
 	}
 }
 

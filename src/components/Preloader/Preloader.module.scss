@@ -1,0 +1,25 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.root {
+	position: fixed;
+	inset: 0;
+	z-index: 100;
+
+	padding: rem(20);
+	@include flex-center;
+
+	background-color: #ffdf8c;
+
+	.img {
+		flex-basis: rem(500);
+		position: relative;
+
+		img {
+			// position: absolute;
+			// inset: 0;
+
+			object-fit: cover;
+		}
+	}
+}

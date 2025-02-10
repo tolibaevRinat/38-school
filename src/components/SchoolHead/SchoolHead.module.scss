@@ -8,6 +8,10 @@
 
 	display: grid;
 	row-gap: rem(20);
+
+	@include mobile {
+		height: 100%;
+	}
 }
 
 .title {

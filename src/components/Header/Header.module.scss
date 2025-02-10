@@ -2,7 +2,7 @@
 @use '../../scss/auxiliary' as *;
 
 .root {
-	@include mobile {
+	@include tablet {
 		position: relative;
 		&::before {
 			content: '';
@@ -10,6 +10,8 @@
 			position: absolute;
 			inset: 0;
 			z-index: 6;
+
+			border-bottom: rem(1) solid #000;
 		}
 	}
 }
@@ -23,11 +25,14 @@
 	align-items: center;
 	column-gap: rem(10);
 
-	border-bottom: rem(1) solid #000;
 	border-top-left-radius: rem(8);
 	border-top-right-radius: rem(8);
-	@include mobile {
+	@include tablet {
 		padding: rem(6);
+		height: 100%;
+	}
+	@include tablet-mf {
+		border-bottom: rem(1) solid #000;
 	}
 }
 .logo {
@@ -43,7 +48,7 @@
 }
 .list {
 	flex-wrap: wrap;
-	@include mobile-mf {
+	@include tablet-mf {
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -75,10 +80,10 @@
 			translate: 0 0;
 		}
 	}
-	@include mobile-mf {
+	@include tablet-mf {
 		padding-block: rem(10);
 	}
-	@include mobile {
+	@include tablet {
 		&:not(:last-child) {
 			margin-bottom: rem(20);
 		}
@@ -86,7 +91,7 @@
 }
 
 .subList {
-	@include mobile-mf {
+	@include tablet-mf {
 		position: absolute;
 		top: 100%;
 		left: 0;
@@ -110,7 +115,7 @@
 .dropdownButton,
 .button {
 	white-space: nowrap;
-	@include mobile-mf {
+	@include tablet-mf {
 		background-color: #fe5f1e;
 		border-radius: rem(30);
 		color: #fff;
@@ -125,7 +130,7 @@
 }
 
 .button {
-	@include mobile {
+	@include tablet {
 		background-color: #fe5f1e;
 		border-radius: rem(30);
 		color: #fff;
@@ -142,7 +147,7 @@
 }
 
 .dropdownButton {
-	@include mobile-mf {
+	@include tablet-mf {
 		padding: rem(15) rem(40) rem(15) rem(22);
 
 		position: relative;
@@ -175,7 +180,7 @@
 		@include hover {
 		}
 	}
-	@include mobile {
+	@include tablet {
 		font-size: rem(20);
 		font-weight: 700;
 	}
@@ -195,21 +200,21 @@
 		background-color: rgba(254, 95, 30, 0.05);
 	}
 
-	@include mobile {
+	@include tablet {
 		font-size: rem(18);
 		font-weight: 500;
 	}
 }
 
 .nav {
-	@include mobile {
+	@include tablet {
 		position: fixed;
 		inset: 0;
 		z-index: 4;
 
 		overflow-y: auto;
 
-		padding: rem(100) rem(20) rem(20);
+		padding: rem(140) rem(20) rem(20);
 
 		display: flex;
 		align-items: flex-start;
@@ -265,7 +270,7 @@
 			scale: 0;
 		}
 	}
-	@include mobile-mf {
+	@include tablet-mf {
 		display: none;
 	}
 }

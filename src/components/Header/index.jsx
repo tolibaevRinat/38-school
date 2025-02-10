@@ -28,11 +28,11 @@ const Header = () => {
 	const aboutSchool = [
 		{
 			value: 'School passport',
-			path: '/',
+			path: '/schoolpassport',
 		},
 		{
 			value: 'School Charter',
-			path: '/',
+			path: '/schoolcharter',
 		},
 	]
 
