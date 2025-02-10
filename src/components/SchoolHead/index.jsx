@@ -13,7 +13,12 @@ const SchoolHead = () => {
 			</h1>
 			<div className={styles.deputy}>
 				<div className={styles.img}>
-					<img src='/images/admins/head.jpg' alt='school Head' />
+					<img
+						src='/images/admins/head.jpg'
+						alt='school Head'
+						width={1000}
+						height={1000}
+					/>
 				</div>
 				<p className={styles.name}>{t('Qutibaeva Zulfiya Qalbaevna')}</p>
 			</div>

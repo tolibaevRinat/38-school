@@ -10,7 +10,12 @@ const DeputyHeadmaster = () => {
 			<h1 className={`${styles.title} circle`}>{t('deputies')}</h1>
 			<div className={styles.deputy}>
 				<div className={styles.img}>
-					<img src='/images/admins/Dilaram.jpg' alt='deputy director Dilaram' />
+					<img
+						src='/images/admins/Dilaram.jpg'
+						alt='deputy director Dilaram'
+						width={1000}
+						height={1000}
+					/>
 				</div>
 				<p className={styles.name}>
 					{t('Deputy Director for Academic Affairs')}
@@ -20,7 +25,12 @@ const DeputyHeadmaster = () => {
 			</div>
 			<div className={styles.deputy}>
 				<div className={styles.img}>
-					<img src='/images/admins/Sholpan.jpg' alt='deputy director Sholpan' />
+					<img
+						width={1000}
+						height={1000}
+						src='/images/admins/Sholpan.jpg'
+						alt='deputy director Sholpan'
+					/>
 				</div>
 				<p className={styles.name}>
 					{t('Deputy Director for Academic Affairs')}

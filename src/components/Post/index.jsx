@@ -9,7 +9,7 @@ const Post = ({ imgUrl, descr }) => {
 	return (
 		<div className={`${styles.inner} container`}>
 			<div className={styles.img}>
-				<img src={imgUrl} alt='post image' />
+				<img src={imgUrl} alt='post image' width={1000} height={1000} />
 			</div>
 			<p className={styles.text}>{t(descr)}</p>
 		</div>
