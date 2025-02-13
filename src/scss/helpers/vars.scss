@@ -4,11 +4,3 @@ $main-ff: 'Inter', sans-serif;
 
 $containerWidthInPc: rem(1600);
 $containerPadding: rem(16);
-
-.container {
-	max-width: calc($containerWidthInPc + $containerPadding * 2);
-	margin-inline: auto;
-	padding-inline: $containerPadding;
-
-	background-color: #fff;
-}
