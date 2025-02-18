@@ -1,54 +1,71 @@
 {
-	"Administration": "Administraciya",
-	"About school": "mektep haqqinda",
-	"Address": "Ma'nzili",
-	"head teacher": "direktor",
-
-	"Symbolism": "Nishanlar",
-	"deputy headmaster": "direktor orinbasarlari",
-	"psychologists": "psixologlar",
-	"english": "anglissha",
-	"uzbek": "o'zbekshe",
-	"russian": "russha",
-	"qaraqalpaq": "qaraqalpaqsha",
-	"Choose language": "Til saylan'",
-	"School passport": "mektep passporti",
-	"School Charter": "mektep ustavi",
-	"Coat of arms of Uzbekistan": "O'zbekistan gerbi",
-	"Flag of Uzbekistan": "O'zbekistan bayrag'i",
-	"Anthem of Uzbekistan": "O'zbekistan gimni",
-	"Coat of arms of Karakalpakistan": "Qaraqalpaqistan gerbi",
-	"Flag of Karakalpakistan": "Qaraqalpaqistan bayrag'i",
-	"Anthem of Karakalpakistan": "Qaraqalpaqistan gimni",
-
-	"Qutibaeva Zulfiya Qalbaevna": "Qutibaeva Zulfiya Qalbaevna",
-
-	"School address": "Mektep mánzili: Nókis qalası Miyweli kóshesi 10-jay",
-	"deputies": "№38 mektep direktori orinbasarlari",
-	"Palvanova Diloram Abdukhalimovna": "Palwanova Dilaram Abduhalimovna",
-	"Deputy Director for Academic Affairs": "Oqiw isleri boyinsha direktor orinbasari",
-	"Psychologist at school No. 38": "№38 mektep psixologi",
-	"Ametova Muhaddas Saparbaevna": "Ametova Muhaddas Saparbaevna",
-
-	"Director of school No. 38": "№38 mektep direktori",
-	"Abdieva Sholpan Tlepbaevna": "Abdieva Sholpan Tlepbaevna",
-	"Sitimbetova Gulzhamila Amanbaevna": "Sitimbetova Guljamila Amanbaevna",
-	"Deputy Director for Spiritual and Educational Work": "Ruwxiy-ag'artuwshiliq tarbiya boyinsha direktor orinbasari",
-	"Deputy Director for Spiritual and Moral Work": "Ruwxiy-tarbiya boyincha direktor orinbasari",
-	"Allekeev Toremurat Zhangabaevich": "Allekeev Toremurat Jangabaevich",
-	"Abdrazakova Gulzar Sadirbaevna": "Abdrazakova Gulzar Sadirbaevna",
-
-	"School passport No. 38": "№38 mektep passporti",
-	"Charter of school No. 38": "№38 mektep ustavi",
-
-	"post01": "2021-jıl 29-oktyabr kúni Nókis qalalik hákimligi din isleri bólimi hám Respublika Ruyhıylıq hám aǵartıw orayı Nókis qalalik bólimleri tárepinen 1-sektor aymag'ında jaylasqan ulıwma bilim beriw mektepleri arasında jaslardıń ideologiyalıq immunitetin bekemlew, olar arasında kiyiniw mádeniyatın arttırıw, milliyligimizge bolǵan húrmetti oyatıw, sonday-aq jat ideyalar tásirinen saqlaw maqsetinde «Milliy kiyim-mánawiyat tiykarı» súreni astında tańlaw shólkemlestirildi. Tańlaw «Milliy kiyimler kórgezbesi» hám «Milliy kiyimler mádeniyatı boyınsha saхnalıq kórinis» shártlerinen ibarat bolıp, tańlaw juwmaǵında paytaхtımızdaǵı 38-sanlı ulıwma bilim beriw mektebi 1 orındı  iyeledi.",
-	"post02": "Nokis  qalası  38-sanlı  mektepte   festival  dawam  etpekte balalar  jazıwshısı, belgili  ilimpaz  Allanazar  Abdiev  penen  ushırasıw  keshesi  ótkerildi. Jazıwshınıń   dóretiwshilik  jolı  haqqında oqıwshılar  jaqınnan  tanıstı, keń  túsinikke  iye  boldı, kóplegen maģlıwmatlar  aldı. Ushırasıw keshemizdiń jáne  bir  miymanı QMU niń  pedagogika  ilimler  doktorı, professor  Qonısbay  Yusupov  boldı. Qaraqalpaqstan  Respublikasınıń qos  ilimpazları menen  mazmunlı, este  qalarlıqtay  ushırasıw  bolıp  ótti. Mektebimizdiń  \"Qızlarjan\" dógeregine  aģza oqıwshıları  ózleriniń  qosıq  hám  ayaq  oyınları  menen keshemizdin  kórkine  kórik  qostı.Baslanģısh  hayal-qızlar  shólkemi  baslıģı, \"Qızlarjan\" dógerek  basshısı, qaraqalpaq tili  hám  àdebiyatı  pàni oqıtıwshısı ,\"Qaraqalpaqstan  Respublikası  Xalıq Bilimlendiriw Aģlası\"  kókirek  nıshanı sıylıģınıń iyesi  Aitenova  Ziyada  Afinovna.",
-	"post03": "38-sanlı mektepte \"BIYBIXONIM mektebi\" shen'berinde Respublikada birinshi ma'rte ken' ko'lemli ilaj sho'lkemlestirildi.\nIlajga Qaraqalpag'stan Respublikası Ministrler Ken'esinen Ayımbetova Bayramgúl Xalıq bilimlediriw ministrliginen Tilewniyazova Amangu'l\nXalıq bilimlendiriw bo'liminen Oralbaeva G'umshagúl \nNo'kis qalası ha'kimliginen Nizamatdinov Qudaybergenler qatnastı ha'm ilajdi sho'lkemlestirgen 38-sanlı mektep ja'ma'a'tine o'z minnetdarshılıg'ın bildirdi.",
-	"post04": "Mektep oqıwshıları kitapqumarlar jarısında 7,5 ball toplap keyingi basqıshqa jollama aldı",
-	"post05": "Mektebimizdin' 2024-jılı pitkergen oqıwshımız Jumamuratov Kamal Rashitovich Toshkent qalasındag'ı Favqulodta wazirlar akademiyasında oqıp atırg'an oqıwshımız ushın Akademiya ta'repinen mektep jamaa'tine minnetdarshılıq bildirdi.",
-	"post06": "Tashkent qalasında bolıp otken \"Yangi yil yulduzlari\" atamasındag'ı konkursda 6g klass oqıwshısı Shamuratov Aktilek oqıwshımız 1 orındı iyeledi.",
-	"post07": "Qoroqolpoģiston Respublikasi  Nukus shahri  Xaliq ta'limi xodimlarini qayta tayyorlash va ularning malakasini oshirish hududiy markazida 'Tillarni oqitish metodikasi kafedrasining tinglovchilari uchun maqsadli o'quv seminari  bo'lib o'tdi. Seminarda  shahar va tumanlardan  o'qituvchilar  ishtirok etishdi. Seminarda interaktiv metodlar innovacion  texnologiyalar haqida ma'lumot berildi. 38-sonli umumiy o'rta ta'lim maktabining  qoraqolpoq  tili va  adabiyoti  fani o'qituvchisi  Aitenova Ziyada.",
-	"post08": "Qaraqalpaqistan Respublikasi Nókis qalasi Xaliq ta'limi ag'zalari qayta tayyarlaw ha'm olardin' kvalifikaciyasin asiriw aymaq;iq orayinda 'Tillerdi oqitiw metodikasi kafedrasinin' tin'lawshilari ushun maqsetli oquw seminari bo'lib o'tdi. Seminarda qala ha'm aymaqlar mug'allimleri qatnasti. Seminarda interaktiv metodlar innovacion texnologiyalar haqida mag'lumat berildi.\n38-sonli uluwma orta bilim mektepinin' qaraqalpaq tili ha'm adebiyat pa'ni mug'allimi Aitenova Ziyada.",
-	"post09": "Nókis  qalalıq Xalıq bilimlendiriw  bólimine qaraslı 38-sanlı ulıwma  orta bilim  beriw mektebiniń qaraqalpaq tili  hàm adebiyatı pàni  oqıtıwshısı Aitenova  Ziyada  Afinovna Tashkent  qalasında NNT \"Укитувчилар ассоциацияси\" tàrepinen shólkemlestirilgen NTM \"Sehryo\" hàm  NTM \"Genesis  Education\"  mekteplerinde bolıp ótken \"Устоз-2020\" hàm \"Устоз-2021\" Milliy mukofoti  jeńimpazları hàm  finalshıları  tàrepinen alıp barılģan sheberlik  sabaģına barıp ham belsene  qatnasıp SERTIFIKAT  penen sıylıqlanıp  oz  pedagogikalıq  tàjiriybesi menen bólisip qayttı.",
-	"post010": "Nókis   qalası  shańaraq   hàm  hayal  qızlar  bólimi  tàrepinen  shólkemlestirilgen \"Jıl  hayalı\" milliy  tańlawında  \"Óz  kàsibiniń  ustası  bolģan  jıl  hayalı\"  nominaciyası  boyınsha  38-sanlı mekteptiń  oqıtıwshısı Aitenova  Ziyada  Afinovna  belsene  qatnasıp 3-dàrejeli  diplom  menen  sıylıqlandı."
+	"admins": {
+		"administration": "Ma'múriyat",
+		"director": "Mektep direktorı",
+		"deputy": "Mektep direktorınıń orınbasarı",
+		"psychologist": "Psixologlar"
+	},
+	"about": {
+		"school": "Mektep haqqında",
+		"events": "Ilájlar",
+		"passport": "Mektep pasportı",
+		"charter": "Mektep Nizamı"
+	},
+	"symbols": {
+		"trans": "Simvolika",
+		"coatUz": "Ózbekstan Gerbi",
+		"flagUz": "Ózbekstan Bayraǵı",
+		"anthemUz": "Ózbekstan Gimni",
+		"coatQr": "Qaraqalpaqstan Gerbi",
+		"flagQr": "Qaraqalpaqstan Bayraǵı",
+		"anthemQr": "Qaraqalpaqstan Gimni"
+	},
+	"address": "Mánzil",
+	"selectLan": {
+		"select": "Tildi tańlań",
+		"en": "Ingliz tili",
+		"ru": "Rus tili",
+		"uz": "Ózbek tili",
+		"qr": "Qaraqalpaq tili"
+	},
+	"home": {
+		"text": "Nókis qalasındaǵı 38-mektep. Koreya Respublikasınıń Tashkenttegi elshixanası qasındaǵı Bilimlendiriw tarawında joqarı jetiskenliklerge erisiw orayı direktorınıń orınbasarı - 장형기. Oqıtıwshı Kim Natalya Nesterovna hám terjiman Saida Ahdamova. Sayohat materiallıq hám usılıy járdem kórsetiw maqsetinde rejelestirilgen edi. Olar reńli qaǵaz hám jipek jipten dóretiwshilik boyınsha kórsetpeli sabaqtı ótkerdi."
+	},
+	"director": {
+		"title": "38-mektep direktorı",
+		"name": "Qutıbaeva Zulfiya Kalbaevna"
+	},
+	"deputy": {
+		"title": "38-mektep direktorınıń orınbasarları",
+		"name_1": "Palvanova Diloram Abduxalimovna",
+		"name_2": "Sitimbetova Gúljamila Amanbaevna",
+		"name_3": "Abdieva Sholpan Tlepbaevna",
+		"name_4": "Allekeev Toremurat Zhangabaevich"
+	},
+	"psychologist": {
+		"title": "38-mektep psixologları",
+		"name": "Ametova Muhaddas Saparbaevna"
+	},
+	"events": {
+		"title": "38-mektep ilájları",
+		"post_1": "2021-jıl 29-oktyabr kúni Nókis qala hákimliginiń din isleri bólimi hám Respublika Ruwxıyat hám Aǵartıwshılıq orayınıń qala bólimi tárepinen jaslardıń ideyalıq immunitetin bekkemlew, kiyim kiyiw mádeniyatın asırıw, milliy ózlikke húrmet oyatıw hám jat ideyalar tásirinen qorǵaw maqsetinde «Milliy kiyim - ruwxıyattıń tiykarı» shıǵarıǵı astında jaylasqan ulıwma bilim beriw mektepleri arasında tańlaw shólkemlestirildi. Tańlaw «Milliy kiyimler kórgezbesi» hám «Milliy kiyim mádeniyatı haqqında teatrlandırılǵan kórinis» basqıshlarınan ibarat boldı. Tańlaw juwmaǵına qaray Nókis qalasındaǵı 38-mektep 1-orındı iyeledi.",
+		"post_2": "Nókis qalasındaǵı 38-mektepte jas qızlar arasında milliy qádiriyatlardı tarǵıb qılıw, dástúr hám úrp-ádetlerimizdi dawam ettiriwshilerdi ábádilestiriw, sonıń menen birge kiyim kiyiw mádeniyatın shólkemlestiriw maqsetinde «Búvim kiygen kiyimler» atamasında tańlaw shólkemlestirildi. Mektep oqıwshıları búvileriniń kiyimlerin úlgili túrde kórsetti.",
+		"post_3": "38-mektepte «Bibixanım mektebi» joybarı sheńberinde respublikada birinshi márte keń kólemli iláj shólkemlestirildi. Ilájda Qaraqalpaqstan Respublikası Ministrler Keńesiniń Bayramgúl Ayimbetova, Xalıq bilimlendiriw ministrliginen Amangúl Tilewniyazova, Xalıq bilimlendiriw bóliminen Gúmshagúl Oralbaeva, Nókis qala hákimliginen Qudaybergen Nizamatdinov qatnasıp, ilájdı shólkemlestirgen 38-mektep jámáátine óz minnetdarshılıgın bildirdi.",
+		"post_4": "38-mektep. \"Jas dizayner\" tańlawı tili",
+		"post_5": "Nókis qalasındaǵı 38-mektepte festival dawam etpekte. Balalar jazıwshısı, belgili alım Allanazar Abdiev menen ushırasıw bolıp ótti. Talabalar jazıwshınıń dóretiwshilik jolı menen tanıstı, ol haqqında keń túsinikke iye boldı hám kóp maǵlıwmatlardı úyrendi. Uchrasiwımızdıń jáne bir miymanı pedagogika pánleri doktorı, KMU professorı Konısbay Yusupov edi. Qaraqalpaqstan Respublikasınıń eki alımı menen ushırasıw mazmunlı hám esde qalarli boldı. «Qızlarjon» togaragi oqıwshıları keshemizdi óz qosıqları hám oyınları menen bezetti. Birlamshı hayal-qızlar shólkemi baslıǵı, «Qızlarjon» togaragi baslıǵı, qaraqalpaq tili hám ádebiyatı oqıtıwshısı, «Ózbekistan Respublikası xalıq bilimlendiriwi aǵlası» kókirek nıshanı iyesi Aytenova Ziyada Afinovna.",
+		"post_6": "Qaraqalpaqstan Respublikası Xalıq bilimlendiriw xızmetkerlerin qayta tayarlaw hám qánigelestiriwin arttırıw aymaqlıq orayında «Til úyretiw metodikası» kafedrası tınǵılawshıları ushın maqsetli oqıw seminarı ótkerildi. Seminarda qala hám rayonlardan kelgen oqıtıwshılar qatnastı. Seminarda interaktiv usıllar hám innovatsion texnologiyalar haqqında maǵlıwmatlar taqdim etildi. 38-sanlı ulıwma bilim beriw mektebiniń qaraqalpaq tili hám ádebiyatı oqıtıwshısı Aytenova Ziyada.",
+		"post_7": "Nókis qala xalıq bilimlendiriw bólimine qaraslı 38-mekteptiń qaraqalpaq tili hám ádebiyatı oqıtıwshısı Aytenova Ziyada Afinovna Tashkent qalasında «Sexrio» NMSh hám «Genesis Education» NMSh mekteplerinde «Ustaz-2020» hám «Ustaz-2021» Milliy sıylıqtıń jeńimpazları hám finalistları tárepinen shólkemlestirilgen sheberlik dársin qatnastı, onda belsendi qatnastı, SERTIFIKAT menen sıylıqlandı hám óz pedagogikalıq tájiriybesi menen bólisti.",
+		"post_8": "Nókis qala shańaraq hám hayal-qızlar isleri bólimi tárepinen shólkemlestirilgen \"Jıl hayalı\" milliy tańlawında 38-mektep muǵallimi Aytenova Ziyada Afinovna \"Jıl hayalı - óz kásibiniń sheberi\" nominatsiyasında belsendi qatnasıp, 3-dárejeli diplom menen sıylıqlandı. til",
+		"post_9": "38-mektepte 11-fevralde nıshanlanatuǵın Xalıqaralıq pán tarawındaǵı hayallar hám qızlar kúni múnásebeti menen «Pán - baxt asarı» atamasında ushırasıw bolıp ótti. Onda Ájiniyaz atındaǵı NQDPI baslawısh fakulteti dekanı, professor, «Húrmetli hayal» kókirek nıshanı iyesi, Ózbekistan hám Qaraqalpaqstan bilimlendiriwiniń xızmetkéri Seyitjanova Ulbosın Qudaybergenovna qatnastı. Filologiya pánleri kandidatı, Berdaq atındaǵı QMU dotsenti Qazaqbaeva Anar. Nókis qala hákimligi baslawısh hayal-qızlar shólkemi qánigesi Elmuratova Zamira. Nókis qala MDHÁBB bólimi baslıǵı Erjanova Marzhangúller. Mirát etilgen miymanlar pán tarawındaǵı jetiskenlikleri haqqında sózlep berdiler. Ushırasıw soraw-juwap túrinde dawam etti hám studentler ózlerin qızıqtırǵan sorawlarǵa juwap aldı. Shólkemlestiriwshi: qaraqalpaq tili hám ádebiyatı oqıtıwshısı Aytenova Ziyada Afinovna.",
+		"post_10": "Nókis qalasındaǵı 38-mekteptiń 9-klás oqıwshısı Mamutova Juldız «Bárekelda, qızlar» viktorinasında jeńimpaz bolıp, 1-orındı iyeledi. Tayarlaǵan oqıtıwshı: Aytenova Ziyada Afinovna."
+	},
+	"password": {
+		"title": "38-mektep pasporti"
+	},
+	"charter": {
+		"title": "38-mektep nizamı"
+	},
+	"addressComponent": {
+		"title": "38-mektep nizamı"
+	}
 }

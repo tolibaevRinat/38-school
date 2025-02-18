@@ -1,0 +1,11 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.map {
+	display: block;
+	border: none;
+
+	max-width: rem(1000);
+	width: 100%;
+	margin-inline: auto;
+}

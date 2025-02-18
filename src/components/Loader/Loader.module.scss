@@ -1,0 +1,9 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.root {
+	width: 100vw;
+	height: 100vh;
+
+	@include flex-center;
+}

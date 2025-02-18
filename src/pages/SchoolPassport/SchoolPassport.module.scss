@@ -1,0 +1,11 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+.pdf {
+	display: block;
+	max-width: rem(1000);
+	width: 100%;
+	height: rem(600);
+
+	margin-inline: auto;
+}

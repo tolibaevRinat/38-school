@@ -1,55 +1,83 @@
 {
-	"Administration": "Administration",
-	"About school": "About school",
-	"Symbolism": "Symbolism",
-	"Address": "Address",
-	"head teacher": "school director",
-	"deputy headmaster": "deputy headmasters",
-	"psychologists": "psychologists",
-	"english": "English",
-	"uzbek": "Uzbek",
-	"russian": "Russian",
-	"qaraqalpaq": "Qaraqalpaq",
-	"Choose language": "Choose language",
-	"School passport": "School passport",
-	"School Charter": "School charter",
-	"Coat of arms of Uzbekistan": "Coat of arms of Uzbekistan",
-	"Flag of Uzbekistan": "Flag of Uzbekistan",
-	"Anthem of Uzbekistan": "Anthem of Uzbekistan",
-	"Coat of arms of Karakalpakistan": "Coat of arms of Karakalpakistan",
-	"Flag of Karakalpakistan": "Flag of Karakalpakistan",
-	"Anthem of Karakalpakistan": "Anthem of Karakalpakistan",
+	"admins": {
+		"administration": "Administration",
+		"director": "School Principal",
+		"deputy": "Deputy School Principal",
+		"psychologist": "Psychologists"
+	},
 
-	"Qutibaeva Zulfiya Qalbaevna": "Qutibaeva Zulfiya Qalbaevna",
+	"about": {
+		"school": "About the School",
+		"events": "Events",
+		"passport": "School Passport",
+		"charter": "School Charter"
+	},
 
-	"School address": "School address: Nukus city, Miyweli street, building No. 10",
-	"deputies": "Deputy Principals of School No. 38",
-	"Deputy Director for Academic Affairs": "Deputy Director for Academic Affairs",
-	"Psychologist at school No. 38": "Psychologist at school No. 38",
+	"symbols": {
+		"trans": "Symbolism",
+		"coatUz": "Coat of Arms of Uzbekistan",
+		"flagUz": "Flag of Uzbekistan",
+		"anthemUz": "Anthem of Uzbekistan",
+		"coatQr": "Coat of Arms of Karakalpakstan",
+		"flagQr": "Flag of Karakalpakstan",
+		"anthemQr": "Anthem of Karakalpakstan"
+	},
 
-	"Palvanova Diloram Abdukhalimovna": "Palvanova Diloram Abdukhalimovna",
-	"Ametova Muhaddas Saparbaevna": "Ametova Muhaddas Saparbaevna",
+	"address": "Address",
 
-	"Director of school No. 38": "Director of school No. 38",
+	"selectLan": {
+		"select": "Select a Language",
+		"en": "English",
+		"ru": "Russian",
+		"uz": "Uzbek",
+		"qr": "Karakalpak"
+	},
 
-	"Abdieva Sholpan Tlepbaevna": "Abdieva Sholpan Tlepbaevna",
-	"Sitimbetova Gulzhamila Amanbaevna": "Sitimbetova Gulzhamila Amanbaevna",
-	"Deputy Director for Spiritual and Educational Work": "Deputy Director for Spiritual and Educational Work",
-	"Deputy Director for Spiritual and Moral Work": "Deputy Director for Spiritual and Moral Work",
-	"Allekeev Toremurat Zhangabaevich": "Allekeev Toremurat Zhangabaevich",
-	"Abdrazakova Gulzar Sadirbaevna": "Abdrazakova Gulzar Sadirbaevna",
+	"home": {
+		"text": "School №38 of Nukus. Deputy Director of the Center for Excellence in Education under the Embassy of the Republic of Korea in Tashkent - 장형기. Teacher Kim Natalia Nesterovna and translator Saida Akhdamova. The trip was planned to provide material and methodological assistance. They gave a demonstrative lesson in creative handicrafts from colored paper and silk thread."
+	},
 
-	"School passport No. 38": "School passport No. 38",
-	"Charter of school No. 38": "Charter of school No. 38",
+	"director": {
+		"title": "Director of School №38",
+		"name": "Kutibaeva Zulfiya Kalbaevna"
+	},
 
-	"post01": "On October 29, 2021, the Nukus City Administration's Department of Religious Affairs and the Nukus City branches of the Republican Center for Spirituality and Enlightenment organized a competition among general education schools located in the 1st sector, under the slogan \"National Dress is the Foundation of Spirituality,\" with the aim of strengthening the ideological immunity of young people, raising their dress culture, awakening respect for our national identity, and protecting them from the influence of foreign ideas. The competition consisted of \"National Dress Exhibition\" and \"Stage Performance on the Culture of National Dress\" categories.  As a result of the competition, school number 38 in our capital city took first place.",
-	"post02": "The festival continues at school No. 38 in Nukis, where a meeting was held with children's writer, renowned scholar Allanazar Abdiev.\nStudents learned about the writer's creative path, gained a broader understanding, and received a lot of information.\nAnother guest of our meeting was Konisbay Yusupov, Doctor of Pedagogical Sciences, Professor at Karakalpak State University (QMU).\nA meaningful and memorable meeting took place with two scholars of the Republic of Karakalpakstan. Members of our school's \"Qizlarjan\" (Girls' Soul) circle added beauty to the event with their poems and dances.\nAitenova Ziyada Afinovna, Head of the Primary Women's Organization, Head of the \"Qizlarjan\" circle, Teacher of Karakalpak Language and Literature, and recipient of the \"Excellent Educator of the Republic of Karakalpakstan\" badge.",
-	"post03": "In school number 38, a large-scale event was organized for the first time in the Republic within the framework of the \"BIYBIXONIM School\".\nBayramgul Ayimbetova from the Council of Ministers of the Republic of Karakalpakstan, Amangul Tilewniyazova from the Ministry of Public Education,\nGumshagul Oralbaeva from the Department of Public Education, and\nKudaybergen Nizamatdinov from the Nukus city administration participated in the event and expressed their gratitude to the staff of school number 38, who organized the event.",
-	"post04": "School students scored 7.5 points in the book lovers' competition and received a pass to the next stage.",
-	"post05": "The Academy expressed gratitude to the school staff for our student Jumamuratov Kamal Rashitovich, a graduate of our school in 2024, who is studying at the Academy of Emergency Situations in Tashkent.",
-	"post06": "In the competition called \"New Year Stars\" held in Tashkent, our student Shamuratov Aktilek, a student of 6g class, took 1st place.",
-	"post07": "A targeted training seminar for students of the Department of Language Teaching Methodology was held at the Regional Center for Retraining and Advanced Training of Public Education Workers in the city of Nukus, Republic of Karakalpakstan. Teachers from cities and districts participated in the seminar. Information on interactive methods and innovative technologies was provided at the seminar.\nAitenova Ziyada, a teacher of Karakalpak language and literature at school No. 38.",
-	"post08": "A targeted training seminar for students of the Department of Language Teaching Methodology was held at the Regional Center for Retraining and Advanced Training of Public Education Workers in the city of Nukus, Republic of Karakalpakstan. Teachers from cities and districts participated in the seminar. Information on interactive methods and innovative technologies was provided at the seminar.\nAitenova Ziyada, a teacher of Karakalpak language and literature at school No. 38.",
-	"post09": "Aitenova Ziyada Afinovna, a teacher of the Karakalpak language and literature at school No. 38, which belongs to the Nukus City Department of Public Education, attended and actively participated in a master class held by the winners and finalists of the 'Ustoz-2020' and 'Ustoz-2021' National Awards, organized by the NGO 'Teachers Association' in Tashkent at the NTM 'Sehryo' and NTM 'Genesis Education' schools, and was awarded a CERTIFICATE. She returned sharing her pedagogical experience.",
-	"post010": "In the national contest \"Woman of the Year,\" organized by the Department of Family and Women's Affairs of the city of Nukus, Aitenova Ziyada Afinovna, a teacher from school No. 38, actively participated in the nomination \"Woman of the Year - Master of Her Profession\" and was awarded a 3rd-degree diploma."
+	"deputy": {
+		"title": "Deputy Directors of School №38",
+		"name_1": "Palvanova Diloram Abdukhalimovna",
+		"name_2": "Sitimbetova Gulzhamila Amanbaevna",
+		"name_3": "Abdieva Sholpan Tlepbaevna",
+		"name_4": "Allekeev Toremurat Zhangabaevich"
+	},
+
+	"psychologist": {
+		"title": "Psychologists of School №38",
+		"name": "Ametova Muhaddas Saparbaevna"
+	},
+
+	"events": {
+		"title": "Events of School №38",
+		"post_1": "On October 29, 2021, the Department of Religious Affairs of the Nukus City Khokimiyat and the City Department of the Republican Center for Spirituality and Enlightenment organized a competition among secondary schools located in the 1st sector under the motto \"National Clothing is the Basis of Spirituality\" to strengthen the ideological immunity of young people, improve the culture of wearing clothing, awaken respect for national identity, and protect against the influence of foreign ideas. The competition consisted of the stages \"Exhibition of National Clothing\" and \"Theatrical Scene about the Culture of National Clothing.\" As a result of the competition, School №38 of Nukus took 1st place.",
+		"post_2": "At School №38 in Nukus, a competition called \"Clothes My Grandmother Wore\" was organized among young girls to promote national values, perpetuate the successors of our traditions and customs, and organize a culture of wearing clothing. The students of the school exemplary demonstrated the clothes of their grandmothers.",
+		"post_3": "At School №38, as part of the \"Bibikhanum School\" project, a large-scale event was organized for the first time in the republic. The event was attended by Bayramgul Ayimbetova from the Council of Ministers of the Republic of Karakalpakstan, Amangul Tileuniyazova from the Ministry of Public Education, Gumshagul Oralbaeva from the Department of Public Education, Kudaybergen Nizamatdinov from the Nukus City Khokimiyat, and expressed gratitude to the staff of School №38, who organized the event.",
+		"post_4": "School №38. \"Young Designer\" competition language",
+		"post_5": "The festival continues at School №38 in Nukus. A meeting was held with children's writer, well-known scientist Allanazar Abdiev. Students got acquainted with the writer's creative path, gained a broad understanding of him, and learned a lot of information. Another guest of our meeting was Doctor of Pedagogical Sciences, Professor of KMU Konysbay Yusupov. The meeting with the two scientists of the Republic of Karakalpakstan was meaningful and memorable. Students of the \"Kyzlarzhan\" (\"Girl's Soul\") club decorated our evening with their poems and dances. Head of the primary women's organization, head of the \"Kyzlarzhan\" club, teacher of Karakalpak language and literature, holder of the badge \"Excellent Worker of Public Education of the Republic of Karakalpakstan\" Aytenova Ziyada Afinovna.",
+		"post_6": "A targeted training seminar was held for students of the Department of \"Methods of Teaching Languages\" at the Regional Center for Retraining and Advanced Training of Public Education Workers of the Republic of Karakalpakstan, Nukus. Teachers from cities and regions took part in the seminar. The seminar presented information about interactive methods and innovative technologies. Teacher of Karakalpak language and literature of secondary school №38 Aytenova Ziyada.",
+		"post_7": "Aytenova Ziyada Afinovna, a teacher of Karakalpak language and literature at School №38 under the Department of Public Education of the City of Nukus, attended a master class conducted by the winners and finalists of the National Award \"Ustoz-2020\" and \"Ustoz-2021\", organized by the NGO \"Association of Teachers\" in the schools of the NGO \"Sekhryo\" and the NGO \"Genesis Education\" in the city of Tashkent, actively participated in it, was awarded a CERTIFICATE and shared her pedagogical experience.",
+		"post_8": "At the national competition \"Woman of the Year\", organized by the Department of Family and Women Affairs of the City of Nukus, Aytenova Ziyada Afinovna, a teacher at School №38, actively participated in the nomination \"Woman of the Year - Master of Her Craft\" and was awarded a 3rd degree diploma. language",
+		"post_9": "At School №38, in connection with the International Day of Women and Girls in Science, celebrated on February 11, a meeting was held under the name \"Science is the Key to Happiness.\" It was attended by the Dean of the Primary Faculty of the NGPI named after Azhiniyaz, Professor, holder of the badge \"Honorary Woman\", an excellent student of education in Uzbekistan and Karakalpakstan - Seitjanova Ulbosyn Kudaibergenovna. Candidate of Philological Sciences, Associate Professor of KSU named after Berdakh Kazakbaeva Anar. Specialist of the primary women's organization of the Nukus City Khokimiyat Elmuratova Zamira. Head of the Registry Office of the MSONO of Nukus Erzhanova Marzhanguller. Invited guests spoke about their achievements in the field of science. The meeting continued in the form of questions and answers, and the students received answers to their questions. Organizer: teacher of Karakalpak language and literature Aytenova Ziyada Afinovna.",
+		"post_10": "Mamutova Zhuldyz, a 9th-grade student at School №38 in Nukus, won the \"Barekel, Girls\" quiz, taking 1st place. Preparing teacher: Aytenova Ziyada Afinovna."
+	},
+
+	"password": {
+		"title": "School Passport №38"
+	},
+
+	"charter": {
+		"title": "School Charter №38"
+	},
+
+	"addressComponent": {
+		"title": "School Charter №38"
+	}
 }

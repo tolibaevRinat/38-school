@@ -20,14 +20,22 @@ body {
 	height: 100%;
 }
 
+.title {
+	font-size: adaptiveSize(40, 24);
+	margin-bottom: rem(20);
+	font-weight: 500;
+}
+
 .container {
 	max-width: calc($containerWidthInPc + $containerPadding * 2);
+	width: 100%;
 	margin-inline: auto;
 	padding-inline: $containerPadding;
 }
 
 .page {
 	flex-grow: 1;
+	padding-bottom: adaptiveSize(40, 20);
 }
 
 .visually-hidden {

@@ -1,51 +1,83 @@
 {
-	"Administration": "Administraciya",
-	"About school": "Maktap haqqida",
-	"Symbolism": "Nishonlar",
-	"Address": "Manzili",
+	"admins": {
+		"administration": "Ma'muriyat",
+		"director": "Maktab direktori",
+		"deputy": "Maktab direktorining o'rinbosari",
+		"psychologist": "Psixologlar"
+	},
 
-	"head teacher": "direktor",
-	"deputy headmaster": "direktor orinbosorlari",
-	"psychologists": "psixologlar",
-	"english": "inglis tili",
-	"uzbek": "o'zbekcha",
-	"russian": "ruscha",
-	"qaraqalpaq": "qoraqolpoqcha",
-	"Choose language": "Til tanlang'",
-	"School passport": "maktab passporti",
-	"School Charter": "maktab ustavi",
-	"Coat of arms of Uzbekistan": "O'zbekiston gerbi",
-	"Flag of Uzbekistan": "O'zbekiston bayrog'i",
-	"Anthem of Uzbekistan": "O'zbekiston gimni",
-	"Coat of arms of Karakalpakistan": "Qoraqolpoqiston gerbi",
-	"Flag of Karakalpakistan": "Qoraqolpoqiston bayrog'i",
-	"Anthem of Karakalpakistan": "Qoraqolpoqiston gimni",
-	"Qutibaeva Zulfiya Qalbaevna": "Qutibaeva Zulfiya Qalbaevna",
-	"School address": "Maktab manzili: Nukus shahri, Miyweli kochasi, 10-uy",
-	"deputies": "№38 maktab direktori orinbosorlari",
-	"Palvanova Diloram Abdukhalimovna": "Palwanova Dilaram Abduhalimovna",
-	"Deputy Director for Academic Affairs": "Oquv ishleri boyincha direktor orinbosari",
-	"Ametova Muhaddas Saparbaevna": "Ametova Muhaddas Saparbaevna",
+	"about": {
+		"school": "Maktab haqida",
+		"events": "Tadbirlar",
+		"passport": "Maktab pasporti",
+		"charter": "Maktab Nizomi"
+	},
 
-	"Director of school No. 38": "№38 maktab direktori",
-	"Abdieva Sholpan Tlepbaevna": "Abdieva Sholpan Tlepbaevna",
-	"Sitimbetova Gulzhamila Amanbaevna": "Sitimbetova Guljamila Amanbaevna",
-	"Deputy Director for Spiritual and Educational Work": "Manaviy-ahloqiy tarbiya boyicha direktor orinbosari",
-	"Deputy Director for Spiritual and Moral Work": "Manaviy-tarbiya boyicha direktor orinbosari",
-	"Allekeev Toremurat Zhangabaevich": "Allekeev Toremurat Jangabaevich",
-	"Abdrazakova Gulzar Sadirbaevna": "Abdrazakova Gulzar Sadirbaevna",
+	"symbols": {
+		"trans": "Ramziylik",
+		"coatUz": "O'zbekiston Gerbi",
+		"flagUz": "O'zbekiston Bayrog'i",
+		"anthemUz": "O'zbekiston Madhiyasi",
+		"coatQr": "Qoraqalpog'iston Gerbi",
+		"flagQr": "Qoraqalpog'iston Bayrog'i",
+		"anthemQr": "Qoraqalpog'iston Madhiyasi"
+	},
 
-	"School passport No. 38": "№38 maktab passporti",
-	"Charter of school No. 38": "№38 maktab ustavi",
+	"address": "Manzil",
 
-	"post01": "2021-yil 29-oktabr kuni Nukus shahar hokimligi Din ishlari bo'limi va Respublika Ma'naviyat va ma'rifat markazi Nukus shahar bo'limlari tomonidan 1-sektor hududida joylashgan umumiy bilim beruvchi maktablar o'rtasida yoshlarning mafkuraviy immunitetini mustahkamlash, ular orasida kiyinish madaniyatini oshirish, milliy qadriyatlarimizga hurmatni uyg'otish, shuningdek, yot g'oyalar ta'siridan saqlash maqsadida \"Milliy kiyim - ma'naviyat asosi\" shiori ostida tanlov tashkil etildi. Tanlov \"Milliy kiyimlar ko'rgazmasi\" va \"Milliy kiyimlar madaniyati bo'yicha sahna ko'rinishi\" shartlaridan iborat bo'lib, tanlov yakunida poytaxtimizdagi 38-sonli umumiy bilim beruvchi maktab 1-o'rinni egalladi.",
-	"post02": "Nokis  qalası  38-sanlı  mektepte   festival  davam  etpekte balalar  jazıwshısı, belgili  ilimpaz  Allanazar  Abdiev  penen  ushırasıw  keshesi  ótkerildi.\nJazıwshınıń  dóretiwshilik  jolı  haqqında oqıwshılar  jaqınnan  tanıstı, keń  túsinikke  iye  boldı, kóplegen maģlıwmatlar  aldı.\nUshırasıw keshemizdiń jáne  bir  miymanı QMU niń pedagogika  ilimler  doktorı, professor  Qonısbay  Yusupov  boldı.\nQaraqalpaqstan  Respublikasınıń qos  ilimpazları menen  mazmunlı, este  qalarlıqtay  ushırasıw  bolıp  ótti. Mektebimizdiń  \"Qızlarjan\" dógeregine  aģza oqıwshıları  ózleriniń  qosıq  hám  ayaq  oyınları  menen keshemizdin  kórkine  kórik  qostı.  \nBaslanģısh  hayal-qızlar  shólkemi  baslıģı, \"Qızlarjan\" dógerek  basshısı, qaraqalpaq tili  hám  àdebiyatı  pàni oqıtıwshısı ,\"Qaraqalpaqstan  Respublikası  Xalıq Bilimlendiriw Aģlası\"  kókirek  nıshanı sıylıģınıń iyesi  Aitenova  Ziyada  Afinovna.",
-	"post03": "38-sonli maktabda \"BIYBIXONIM maktabi\" doirasida Respublikada birinchi marta keng ko'lamli tadbir tashkil etildi.\nTadbirda Qoraqalpogʻiston Respublikasi Vazirlar Kengashidan Ayimbetova Bayramgul, Xalq taʼlimi vazirligidan Tilewniyazova Amangul,\nXalq taʼlimi boʻlimidan Oralbaeva Gumshagul va\nNukus shahar hokimligidan Nizamatdinov Qudaybergenlar qatnashdi va tadbirni tashkil etgan 38-sonli maktab jamoasiga oʻz minnatdorchiligini bildirdi.",
-	"post04": "Maktab o'quvchilari kitobsevarlar tanlovida 7,5 ball to'plab keyingi bosqichga yo'llanma oldi.",
-	"post05": "Maktabimizning 2024-yilda bitirgan o'quvchimiz Jumamuratov Kamal Rashitovich Toshkent shahridagi Favqulodda vaziyatlar akademiyasida o'qiyotgan o'quvchimiz uchun Akademiya tomonidan maktab jamoasiga minnatdorchilik bildirdi.",
-	"post06": "Toshkent shahrida bo'lib o'tgan \"Yangi yil yulduzlari\" nomli tanlovda 6g sinf o'quvchisi Shamuratov Aktilek o'quvchimiz 1-o'rinni egalladi.",
-	"post07": " Qoroqolpoģiston Respublikasi  Nukus shahri  Xaliq ta'limi xodimlarini qayta tayyorlash va ularning malakasini oshirish hududiy markazida 'Tillarni oqitish metodikasi kafedrasining tinglovchilari uchun maqsadli o'quv seminari  bo'lib o'tdi. Seminarda  shahar va tumanlardan  o'qituvchilar  ishtirok etishdi. Seminarda interaktiv metodlar innovacion  texnologiyalar haqida ma'lumot berildi. 38-sonli umumiy o'rta ta'lim maktabining  qoraqolpoq  tili va  adabiyoti  fani o'qituvchisi  Aitenova Ziyada.",
-	"post08": "Qoroqolpoģiston Respublikasi Nukus shahri Xaliq ta'limi xodimlarini qayta tayyorlash va ularning malakasini oshirish hududiy markazida 'Tillarni oqitish metodikasi kafedrasining tinglovchilari uchun maqsadli o'quv seminari bo'lib o'tdi. Seminarda shahar va tumanlardan o'qituvchilar ishtirok etishdi. Seminarda interaktiv metodlar innovacion texnologiyalar haqida ma'lumot berildi.\n38-sonli umumiy o'rta ta'lim maktabining qoraqolpoq tili va adabiyoti fani o'qituvchisi Aitenova Ziyada.",
-	"post09": "Nukus shahar Xalq ta'limi bo'limiga qarashli 38-sonli umumiy o'rta ta'lim maktabining qoraqalpoq tili va adabiyoti fani o'qituvchisi Aytenova Ziyada Afinovna Toshkent shahrida NNT \"O'qituvchilar assotsiatsiyasi\" tomonidan tashkil etilgan NTM \"Sehryo\" va NTM \"Genesis Education\" maktablarida bo'lib o'tgan \"Ustoz-2020\" va \"Ustoz-2021\" Milliy mukofoti g'oliblari va finalchilari tomonidan olib borilgan mahorat sabog'iga borib hamda faol qatnashib SERTIFIKAT bilan taqdirlandi va o'z pedagogik tajribasi bilan bo'lishib qaytdi.",
-	"post010": "Nukus shahri oila va ayollar bo'limi tomonidan tashkil etilgan \"Yil ayoli\" milliy tanlovida 38-sonli maktab o'qituvchisi Aytenova Ziyada Afinovna \"O'z kasbining ustasi bo'lgan yil ayoli\" nominatsiyasi bo'yicha faol qatnashib, 3-darajali diplom bilan taqdirlandi."
+	"selectLan": {
+		"select": "Tilni tanlang",
+		"en": "Ingliz tili",
+		"ru": "Rus tili",
+		"uz": "O'zbek tili",
+		"qr": "Qoraqalpoq tili"
+	},
+
+	"home": {
+		"text": "Nukus shahridagi 38-maktab. Koreya Respublikasining Toshkentdagi elchixonasi qoshidagi Ta'lim sohasida yuksak yutuqlarga erishish markazi direktorining o'rinbosari - 장형기. O'qituvchi Kim Natalya Nesterovna va tarjimon Saida Ahdamova. Sayohat moddiy va uslubiy yordam ko'rsatish maqsadida rejalashtirilgan edi. Ular rangli qog'oz va ipak ipidan ijodiy hunarmandchilik bo'yicha namoyish darsini o'tkazdilar."
+	},
+
+	"director": {
+		"title": "38-maktab direktori",
+		"name": "Qutibaeva Zulfiya Kalbaevna"
+	},
+
+	"deputy": {
+		"title": "38-maktab direktorining o'rinbosarlari",
+		"name_1": "Palvanova Diloram Abduhalimovna",
+		"name_2": "Sitimbetova Gulzhamila Amanbaevna",
+		"name_3": "Abdieva Sholpan Tlepbaevna",
+		"name_4": "Allekeev Toremurat Zhangabaevich"
+	},
+
+	"psychologist": {
+		"title": "38-maktab psixologlari",
+		"name": "Ametova Muhaddas Saparbaevna"
+	},
+
+	"events": {
+		"title": "38-maktab tadbirlari",
+		"post_1": "2021-yil 29-oktabr kuni Nukus shahar hokimligining din ishlari bo'limi va Respublika Ma'naviyat va Ma'rifat markazining shahar bo'limi tomonidan 1-sektorda joylashgan umumta'lim maktablari o'rtasida yoshlarning mafkuraviy immunitetini mustahkamlash, kiyim kiyish madaniyatini oshirish, milliy o'zlikka hurmat uyg'otish va begona g'oyalar ta'siridan himoyalash maqsadida «Milliy kiyim - ma'naviyat asosi» shiori ostida tanlov tashkil etildi. Tanlov «Milliy kiyimlar ko'rgazmasi» va «Milliy kiyim madaniyati haqida teatrlashtirilgan sahna» bosqichlaridan iborat bo'ldi. Tanlov yakuniga ko'ra Nukus shahridagi 38-maktab 1-o'rinni egalladi.",
+		"post_2": "Nukus shahridagi 38-maktabda yosh qizlar o'rtasida milliy qadriyatlarni targ'ib qilish, an'ana va urf-odatlarimiz davomchilarini abadiylashtirish, shuningdek, kiyim kiyish madaniyatini tashkil etish maqsadida «Buvem kiygan kiyimlar» nomli tanlov tashkil etildi. Maktab o'quvchilari buvilarining kiyimlarini namunali tarzda namoyish etdilar.",
+		"post_3": "38-maktabda «Bibixonim maktabi» loyihasi doirasida respublikada birinchi marta keng ko'lamli tadbir tashkil etildi. Tadbirda Qoraqalpog'iston Respublikasi Vazirlar Kengashidan Bayramgul Ayimbetova, Xalq ta'limi vazirligidan Amangul Tileuniyazova, Xalq ta'limi bo'limidan Gumshagul Oralbaeva, Nukus shahar hokimligidan Kudaybergen Nizamatdinov ishtirok etib, tadbirni tashkil etgan 38-maktab jamoasiga o'z minnatdorchiligini bildirdilar.",
+		"post_4": "38-maktab. \"Yosh dizayner\" tanlovi tili",
+		"post_5": "Nukus shahridagi 38-maktabda festival davom etmoqda. Bolalar yozuvchisi, taniqli olim Allanazar Abdiev bilan uchrashuv bo'lib o'tdi. Talabalar yozuvchining ijodiy yo'li bilan tanishdilar, u haqida keng tushunchaga ega bo'ldilar va ko'plab ma'lumotlarni o'rgandilar. Uchrashuvimizning yana bir mehmoni pedagogika fanlari doktori, KMU professori Konisbay Yusupov edi. Qoraqalpog'iston Respublikasining ikki olimi bilan uchrashuv mazmunli va esda qolarli bo'ldi. \"Qizlarjon\" to'garagi o'quvchilari kechamizni o'z she'r va raqslari bilan bezatdilar. Birlamchi xotin-qizlar tashkiloti rahbari, \"Qizlarjon\" to'garagi rahbari, qoraqalpoq tili va adabiyoti o'qituvchisi, «O'zbekiston Respublikasi xalq ta'limi a'lochisi» ko'krak nishoni sohibasi Aytenova Ziyada Afinovna.",
+		"post_6": "Qoraqalpog'iston Respublikasi Xalq ta'limi xodimlarini qayta tayyorlash va malakasini oshirish hududiy markazida \"Til o'qitish metodikasi\" kafedrasi tinglovchilari uchun maqsadli o'quv seminar o'tkazildi. Seminarda shahar va tumanlardan kelgan o'qituvchilar ishtirok etishdi. Seminarda interaktiv usullar va innovatsion texnologiyalar haqida ma'lumotlar taqdim etildi. 38-sonli umumta'lim maktabining qoraqalpoq tili va adabiyoti o'qituvchisi Aytenova Ziyada.",
+		"post_7": "Nukus shahar xalq ta'limi bo'limiga qarashli 38-maktabning qoraqalpoq tili va adabiyoti o'qituvchisi Aytenova Ziyada Afinovna Toshkent shahrida «Sekhryo» NNT va «Genesis Education» NNT maktablarida «Ustoz-2020» va «Ustoz-2021» Milliy mukofoti g'olib va finalchilari tomonidan tashkil etilgan mahorat darsida qatnashdi, unda faol ishtirok etdi, SERTIFIKAT bilan taqdirlandi va o'z pedagogik tajribasi bilan o'rtoqlashdi.",
+		"post_8": "Nukus shahar oila va xotin-qizlar ishlari bo'limi tomonidan tashkil etilgan \"Yil ayoli\" milliy tanlovida 38-maktab o'qituvchisi Aytenova Ziyada Afinovna \"Yil ayoli - o'z kasbining ustasi\" nominatsiyasida faol ishtirok etib, 3-darajali diplom bilan taqdirlandi. til",
+		"post_9": "38-maktabda 11-fevralda nishonlanadigan Xalqaro fan sohasida ayollar va qizlar kuni munosabati bilan «Fan - baxt kaliti» nomli uchrashuv bo'lib o'tdi. Unda Ajiniyoz nomidagi NGDPI boshlang'ich fakulteti dekani, professor, «Faxriy ayol» ko'krak nishoni sohibasi, O'zbekiston va Qoraqalpog'iston ta'lim a'lochisi Seitjanova Ulbosin Kudaybergenovna ishtirok etdi. Filologiya fanlari nomzodi, Berdax nomidagi KDU dotsenti Qazaqbaeva Anar. Nukus shahar hokimligi boshlang'ich xotin-qizlar tashkiloti mutaxassisi Elmuratova Zamira. Nukus shahar MSONO FHDYo bo'limi boshlig'i Erjanova Marzhanguller. Taklif etilgan mehmonlar fan sohasidagi yutuqlari haqida so'zlab berdilar. Uchrashuv savol-javob shaklida davom etdi va talabalar o'zlarini qiziqtirgan savollarga javob oldilar. Tashkilotchi: qoraqalpoq tili va adabiyoti o'qituvchisi Aytenova Ziyada Afinovna.",
+		"post_10": "Nukus shahridagi 38-maktabning 9-sinf o'quvchisi Mamutova Juldiz «Barekalla, qizlar» viktorinasida g'olib bo'lib, 1-o'rinni egalladi. Tayyorlagan o'qituvchi: Aytenova Ziyada Afinovna."
+	},
+
+	"password": {
+		"title": "38-maktab pasporti"
+	},
+
+	"charter": {
+		"title": "38-maktab nizomi"
+	},
+
+	"addressComponent": {
+		"title": "38-maktab nizomi"
+	}
 }

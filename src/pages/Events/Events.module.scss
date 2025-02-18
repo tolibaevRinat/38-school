@@ -1,0 +1,27 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+:global {
+	.slick-arrow.slick-prev,
+	.slick-arrow.slick-next {
+		top: 10%;
+		z-index: 5;
+		width: rem(40);
+		height: rem(40);
+
+		border-radius: 50%;
+		overflow: hidden;
+
+		background-color: #4361ee;
+		&::before {
+			font-size: rem(30);
+			line-height: 1.5;
+		}
+	}
+	.slick-arrow.slick-prev {
+		left: rem(10);
+	}
+	.slick-arrow.slick-next {
+		right: rem(10);
+	}
+}

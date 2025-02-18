@@ -1,0 +1,23 @@
+@use '../../scss/helpers' as *;
+@use '../../scss/auxiliary' as *;
+
+:global {
+	.slick-slide {
+		width: rem(1000);
+	}
+}
+
+.wrapper {
+	text-align: center;
+
+	border-radius: rem(8);
+
+	overflow: hidden;
+	img {
+		display: inline-block;
+
+		object-position: center;
+		max-width: 100%;
+	}
+	margin-bottom: rem(20);
+}

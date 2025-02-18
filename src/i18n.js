@@ -27,8 +27,8 @@ i18n
 	.use(initReactI18next)
 	.init({
 		resources,
-		lng: localStorage.getItem('language') || 'en', // Устанавливаем язык из localStorage или 'en' по умолчанию
-		fallbackLng: 'en',
+		lng: localStorage.getItem('language') || 'qr', // Устанавливаем язык из localStorage или 'en' по умолчанию
+		fallbackLng: 'qr',
 		interpolation: {
 			// Предотвращаем двойное экранирование HTML-тегов
 			escapeValue: false, // React уже экранирует значения

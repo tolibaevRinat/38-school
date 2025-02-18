@@ -17,8 +17,11 @@
 		"react-dom": "^19.0.0",
 		"react-i18next": "^15.4.0",
 		"react-router-dom": "^6.29.0",
+		"react-slick": "^0.30.3",
+		"react-spinners": "^0.15.0",
 		"rsuite": "^5.77.1",
-		"sass": "^1.84.0"
+		"sass": "^1.84.0",
+		"slick-carousel": "^1.8.1"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.19.0",

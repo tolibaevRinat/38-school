@@ -1,15 +1,14 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom'
-import Header from './components/Header'
 
-// import Preloader from './components/Preloader'
+import Loader from './components/Loader'
+
+const Inner = React.lazy(() => import('./components/Inner'))
 
 const App = () => {
 	return (
-		<>
-			<Header />
-			<main className='page container'></main>
-		</>
+		<React.Suspense fallback={<Loader />}>
+			<Inner></Inner>
+		</React.Suspense>
 	)
 }
 
