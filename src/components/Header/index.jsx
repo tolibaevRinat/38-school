@@ -7,12 +7,17 @@ import styles from './Header.module.scss'
 import LangSwitch from '../LangSwitch'
 
 const Header = () => {
-	const [onClickMenuIcon, setOnClickMenuIcon] = React.useState(0)
+	const [onClickMenuIcon, setOnClickMenuIcon] = React.useState(false)
 	const { t } = useTranslation()
 
 	const handleMenuClick = () => {
 		setOnClickMenuIcon(!onClickMenuIcon)
 		document.documentElement.classList.toggle('is-lock', !onClickMenuIcon)
+	}
+
+	const handleMenuLinkClick = () => {
+		setOnClickMenuIcon(false)
+		document.documentElement.classList.remove('is-lock')
 	}
 
 	return (
@@ -32,13 +37,19 @@ const Header = () => {
 								trigger='hover'
 							>
 								<Dropdown.Item>
-									<Link to='/director'>{t('admins.director')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/director'>
+										{t('admins.director')}
+									</Link>
 								</Dropdown.Item>
 								<Dropdown.Item>
-									<Link to='/deputy'>{t('admins.deputy')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/deputy'>
+										{t('admins.deputy')}
+									</Link>
 								</Dropdown.Item>
 								<Dropdown.Item>
-									<Link to='/psychologist'>{t('admins.psychologist')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/psychologist'>
+										{t('admins.psychologist')}
+									</Link>
 								</Dropdown.Item>
 							</Dropdown>
 						</li>
@@ -49,13 +60,19 @@ const Header = () => {
 								trigger='hover'
 							>
 								<Dropdown.Item>
-									<Link to='/events'>{t('about.events')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/events'>
+										{t('about.events')}
+									</Link>
 								</Dropdown.Item>
 								<Dropdown.Item>
-									<Link to='/school-passport'>{t('about.passport')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/school-passport'>
+										{t('about.passport')}
+									</Link>
 								</Dropdown.Item>
 								<Dropdown.Item>
-									<Link to='/school-charter'>{t('about.charter')}</Link>
+									<Link onClick={handleMenuLinkClick} to='/school-charter'>
+										{t('about.charter')}
+									</Link>
 								</Dropdown.Item>
 							</Dropdown>
 						</li>
@@ -122,7 +139,11 @@ const Header = () => {
 							</Dropdown>
 						</li>
 						<li className={styles.listItem}>
-							<Link className={styles.address} to='/address'>
+							<Link
+								onClick={handleMenuLinkClick}
+								className={styles.address}
+								to='/address'
+							>
 								{t('address')}
 							</Link>
 						</li>

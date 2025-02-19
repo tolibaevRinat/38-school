@@ -12,7 +12,11 @@ const Psychologist = () => {
 			<h1 className={`${styles.title} title`}>{t('psychologist.title')}</h1>
 			<Employees
 				img='images/admins/muhaddas.jpg'
-				title={t('psychologist.name')}
+				title={t('psychologist.name_1')}
+			/>
+			<Employees
+				img='images/admins/Gulzar.jpg'
+				title={t('psychologist.name_2')}
 			/>
 		</section>
 	)
