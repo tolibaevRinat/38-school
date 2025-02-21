@@ -24,7 +24,7 @@ const Events = () => {
 		<section className={styles.root}>
 			<h1 className={`${styles.title} title`}>{t('events.title')}</h1>
 			<Slider {...settings}>
-				{[...new Array(11)].map((_, i) => (
+				{[...new Array(12)].map((_, i) => (
 					<div key={i}>
 						<Employees
 							img={`/images/posts/${i + 1}.jpg`}
@@ -32,6 +32,10 @@ const Events = () => {
 						/>
 					</div>
 				))}
+				<div className={styles.video}>
+					<video src="/video/01.mp4" controls></video>
+					<p>{t('events.videos.post_1')}</p>
+				</div>
 			</Slider>
 		</section>
 	)

@@ -2,6 +2,7 @@
 @use '../../scss/auxiliary' as *;
 
 :global {
+
 	.slick-arrow.slick-prev,
 	.slick-arrow.slick-next {
 		top: 10%;
@@ -13,15 +14,29 @@
 		overflow: hidden;
 
 		background-color: #4361ee;
+
 		&::before {
 			font-size: rem(30);
 			line-height: 1.5;
 		}
 	}
+
 	.slick-arrow.slick-prev {
 		left: rem(10);
 	}
+
 	.slick-arrow.slick-next {
 		right: rem(10);
 	}
+}
+
+.video {
+	video {
+		width: 352px;
+		margin-inline: auto;
+		margin-bottom: 20px;
+	}
+
+	text-align: center;
+	font-size: adaptiveSize(30, 16);
 }

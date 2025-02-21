@@ -5,14 +5,12 @@
 		"deputy": "Maktab direktorining o'rinbosari",
 		"psychologist": "Psixologlar"
 	},
-
 	"about": {
 		"school": "Maktab haqida",
 		"events": "Tadbirlar",
 		"passport": "Maktab pasporti",
 		"charter": "Maktab Nizomi"
 	},
-
 	"symbols": {
 		"trans": "Ramziylik",
 		"coatUz": "O'zbekiston Gerbi",
@@ -22,9 +20,7 @@
 		"flagQr": "Qoraqalpog'iston Bayrog'i",
 		"anthemQr": "Qoraqalpog'iston Madhiyasi"
 	},
-
 	"address": "Manzil",
-
 	"selectLan": {
 		"select": "Tilni tanlang",
 		"en": "Ingliz tili",
@@ -32,16 +28,13 @@
 		"uz": "O'zbek tili",
 		"qr": "Qoraqalpoq tili"
 	},
-
 	"home": {
 		"text": "Nukus shahridagi 38-maktab. Koreya Respublikasining Toshkentdagi elchixonasi qoshidagi Ta'lim sohasida yuksak yutuqlarga erishish markazi direktorining o'rinbosari - 장형기. O'qituvchi Kim Natalya Nesterovna va tarjimon Saida Ahdamova. Sayohat moddiy va uslubiy yordam ko'rsatish maqsadida rejalashtirilgan edi. Ular rangli qog'oz va ipak ipidan ijodiy hunarmandchilik bo'yicha namoyish darsini o'tkazdilar."
 	},
-
 	"director": {
 		"title": "38-maktab direktori",
 		"name": "Qutibaeva Zulfiya Kalbaevna"
 	},
-
 	"deputy": {
 		"title": "38-maktab direktorining o'rinbosarlari",
 		"name_1": "Palvanova Diloram Abduhalimovna",
@@ -49,13 +42,11 @@
 		"name_3": "Abdieva Sholpan Tlepbaevna",
 		"name_4": "Allekeev Toremurat Zhangabaevich"
 	},
-
 	"psychologist": {
 		"title": "38-maktab psixologlari",
 		"name_1": "Ametova Muhaddas Saparbaevna",
-		"name_2": "Abdrazakova Gulzar Sadirovna"
+		"name_2": "Abdrazakova Gulzar Sadirbaevna"
 	},
-
 	"events": {
 		"title": "38-maktab tadbirlari",
 		"post_1": "2021-yil 29-oktabr kuni Nukus shahar hokimligining din ishlari bo'limi va Respublika Ma'naviyat va Ma'rifat markazining shahar bo'limi tomonidan 1-sektorda joylashgan umumta'lim maktablari o'rtasida yoshlarning mafkuraviy immunitetini mustahkamlash, kiyim kiyish madaniyatini oshirish, milliy o'zlikka hurmat uyg'otish va begona g'oyalar ta'siridan himoyalash maqsadida «Milliy kiyim - ma'naviyat asosi» shiori ostida tanlov tashkil etildi. Tanlov «Milliy kiyimlar ko'rgazmasi» va «Milliy kiyim madaniyati haqida teatrlashtirilgan sahna» bosqichlaridan iborat bo'ldi. Tanlov yakuniga ko'ra Nukus shahridagi 38-maktab 1-o'rinni egalladi.",
@@ -68,17 +59,18 @@
 		"post_8": "Nukus shahar oila va xotin-qizlar ishlari bo'limi tomonidan tashkil etilgan \"Yil ayoli\" milliy tanlovida 38-maktab o'qituvchisi Aytenova Ziyada Afinovna \"Yil ayoli - o'z kasbining ustasi\" nominatsiyasida faol ishtirok etib, 3-darajali diplom bilan taqdirlandi. til",
 		"post_9": "38-maktabda 11-fevralda nishonlanadigan Xalqaro fan sohasida ayollar va qizlar kuni munosabati bilan «Fan - baxt kaliti» nomli uchrashuv bo'lib o'tdi. Unda Ajiniyoz nomidagi NGDPI boshlang'ich fakulteti dekani, professor, «Faxriy ayol» ko'krak nishoni sohibasi, O'zbekiston va Qoraqalpog'iston ta'lim a'lochisi Seitjanova Ulbosin Kudaybergenovna ishtirok etdi. Filologiya fanlari nomzodi, Berdax nomidagi KDU dotsenti Qazaqbaeva Anar. Nukus shahar hokimligi boshlang'ich xotin-qizlar tashkiloti mutaxassisi Elmuratova Zamira. Nukus shahar MSONO FHDYo bo'limi boshlig'i Erjanova Marzhanguller. Taklif etilgan mehmonlar fan sohasidagi yutuqlari haqida so'zlab berdilar. Uchrashuv savol-javob shaklida davom etdi va talabalar o'zlarini qiziqtirgan savollarga javob oldilar. Tashkilotchi: qoraqalpoq tili va adabiyoti o'qituvchisi Aytenova Ziyada Afinovna.",
 		"post_10": "Nukus shahridagi 38-maktabning 9-sinf o'quvchisi Mamutova Juldiz «Barekalla, qizlar» viktorinasida g'olib bo'lib, 1-o'rinni egalladi. Tayyorlagan o'qituvchi: Aytenova Ziyada Afinovna.",
-		"post_11": "Nukus shahri Xalq ta’limi va tibbiyot birlashmalari tasarrufidagi 38-sonli umumiy o‘rta ta’lim maktabining 9-sinf o‘quvchilarini kasb-hunarga yo‘naltirish maqsadida, shahrimizda joylashgan MONO MARKAZiga sayohat tashkil etildi. Sayohat davomida o‘quvchilarga markazda o‘rgatilayotgan kasb turlari haqida ma’lumot berildi."
+		"post_11": "Nukus shahri Xalq ta’limi va tibbiyot birlashmalari tasarrufidagi 38-sonli umumiy o‘rta ta’lim maktabining 9-sinf o‘quvchilarini kasb-hunarga yo‘naltirish maqsadida, shahrimizda joylashgan MONO MARKAZiga sayohat tashkil etildi. Sayohat davomida o‘quvchilarga markazda o‘rgatilayotgan kasb turlari haqida ma’lumot berildi.",
+		"post_12": "5-kun ma'naviyat va ma'rifat munosabati bilan \"Naqshlar so'ylaydi\" tadbiridan ko'rinish.",
+		"videos": {
+			"post_1": "Nukus shahri XTB va MTBga qarashli 38-sonli maktabda maktab psixologlari tomonidan maktab pedagoglariga “Pedagoglarda kasbiy stress hamda emotsional so’nish” holatlari oldini olish bo’yicha trening o’tkazildi. Treningdan ko’rinishlar."
+		}
 	},
-
 	"password": {
 		"title": "38-maktab pasporti"
 	},
-
 	"charter": {
 		"title": "38-maktab nizomi"
 	},
-
 	"addressComponent": {
 		"title": "38-maktab nizomi"
 	}

@@ -5,14 +5,12 @@
 		"deputy": "Deputy School Principal",
 		"psychologist": "Psychologists"
 	},
-
 	"about": {
 		"school": "About the School",
 		"events": "Events",
 		"passport": "School Passport",
 		"charter": "School Charter"
 	},
-
 	"symbols": {
 		"trans": "Symbolism",
 		"coatUz": "Coat of Arms of Uzbekistan",
@@ -22,9 +20,7 @@
 		"flagQr": "Flag of Karakalpakstan",
 		"anthemQr": "Anthem of Karakalpakstan"
 	},
-
 	"address": "Address",
-
 	"selectLan": {
 		"select": "Select a Language",
 		"en": "English",
@@ -32,16 +28,13 @@
 		"uz": "Uzbek",
 		"qr": "Karakalpak"
 	},
-
 	"home": {
 		"text": "School №38 of Nukus. Deputy Director of the Center for Excellence in Education under the Embassy of the Republic of Korea in Tashkent - 장형기. Teacher Kim Natalia Nesterovna and translator Saida Akhdamova. The trip was planned to provide material and methodological assistance. They gave a demonstrative lesson in creative handicrafts from colored paper and silk thread."
 	},
-
 	"director": {
 		"title": "Director of School №38",
 		"name": "Kutibaeva Zulfiya Kalbaevna"
 	},
-
 	"deputy": {
 		"title": "Deputy Directors of School №38",
 		"name_1": "Palvanova Diloram Abdukhalimovna",
@@ -49,13 +42,11 @@
 		"name_3": "Abdieva Sholpan Tlepbaevna",
 		"name_4": "Allekeev Toremurat Zhangabaevich"
 	},
-
 	"psychologist": {
 		"title": "Psychologists of School №38",
 		"name_1": "Ametova Muhaddas Saparbaevna",
-		"name_2": "Abdrazakova Gulzar Sadirovna"
+		"name_2": "Abdrazakova Gulzar Sadirbaevna"
 	},
-
 	"events": {
 		"title": "Events of School №38",
 		"post_1": "On October 29, 2021, the Department of Religious Affairs of the Nukus City Khokimiyat and the City Department of the Republican Center for Spirituality and Enlightenment organized a competition among secondary schools located in the 1st sector under the motto \"National Clothing is the Basis of Spirituality\" to strengthen the ideological immunity of young people, improve the culture of wearing clothing, awaken respect for national identity, and protect against the influence of foreign ideas. The competition consisted of the stages \"Exhibition of National Clothing\" and \"Theatrical Scene about the Culture of National Clothing.\" As a result of the competition, School №38 of Nukus took 1st place.",
@@ -68,17 +59,18 @@
 		"post_8": "At the national competition \"Woman of the Year\", organized by the Department of Family and Women Affairs of the City of Nukus, Aytenova Ziyada Afinovna, a teacher at School №38, actively participated in the nomination \"Woman of the Year - Master of Her Craft\" and was awarded a 3rd degree diploma. language",
 		"post_9": "At School №38, in connection with the International Day of Women and Girls in Science, celebrated on February 11, a meeting was held under the name \"Science is the Key to Happiness.\" It was attended by the Dean of the Primary Faculty of the NGPI named after Azhiniyaz, Professor, holder of the badge \"Honorary Woman\", an excellent student of education in Uzbekistan and Karakalpakstan - Seitjanova Ulbosyn Kudaibergenovna. Candidate of Philological Sciences, Associate Professor of KSU named after Berdakh Kazakbaeva Anar. Specialist of the primary women's organization of the Nukus City Khokimiyat Elmuratova Zamira. Head of the Registry Office of the MSONO of Nukus Erzhanova Marzhanguller. Invited guests spoke about their achievements in the field of science. The meeting continued in the form of questions and answers, and the students received answers to their questions. Organizer: teacher of Karakalpak language and literature Aytenova Ziyada Afinovna.",
 		"post_10": "Mamutova Zhuldyz, a 9th-grade student at School №38 in Nukus, won the \"Barekel, Girls\" quiz, taking 1st place. Preparing teacher: Aytenova Ziyada Afinovna.",
-		"post_11": "For the purpose of vocational guidance for 9th grade students of secondary school No. 38, which belongs to the departments of public education and medical associations of Nukus city, an excursion was organized to the MONO Center located in our city. During the excursion, students were provided with information about the types of professions taught at the center."
+		"post_11": "For the purpose of vocational guidance for 9th grade students of secondary school No. 38, which belongs to the departments of public education and medical associations of Nukus city, an excursion was organized to the MONO Center located in our city. During the excursion, students were provided with information about the types of professions taught at the center.",
+		"post_12": "A scene from the event \"Patterns Speak\" dedicated to the 5th day of spirituality and enlightenment.",
+		"videos": {
+			"post_1": "In school No. 38 under the Department of Public Education and the Ministry of Preschool Education of the city of Nukus, school psychologists conducted a training for school teachers on the prevention of \"Professional stress and emotional burnout in teachers.\" Scenes from the training."
+		}
 	},
-
 	"password": {
 		"title": "School Passport №38"
 	},
-
 	"charter": {
 		"title": "School Charter №38"
 	},
-
 	"addressComponent": {
 		"title": "School Charter №38"
 	}
